@@ -2,18 +2,22 @@
 
 
 Lambert FBLA Mobile App Development
-Authors: Harshsai Dhulipudi, Nikhil Murari, Tejas Gururaj Voice: 678-779-7273 Email: Lambertfblaapp@Gmail.Com
+Authors: Dhruvsai Dhulipudi, Sarvajith Kujuluva, Avaneesh Choragudi Voice: 470-357-3785 Email: ddhruvsai@outlook.com
 
 # General Usage Notes
-  * All Users Will Have Default Screens (Home Page, Events, Calender, FAQ And Contact Us)
-  * Teachers Will Have Extra Functionality
-  * Teachers Can Create Edit And Delete Events
-  * Teachers Can Share The Qr Codes
-  * Teachers Can View And Delete Students Who Signed Up For The Events
-  * Students Are Able To Sign Up For Events That The Teachers Have Created
-  * Students Can Sign-in For Chapter Meetings
-  * Students Can Learn More About Lambert Fbla As Well As Fbla In General In The Contact Us And Faq Tabs
-  * Students Are Able To View The Calendar And See Which Events Are Partaking On Specific Days
+  * All Users Will Have Default Screens (Login/Sign up Page, Home Page, User Info Entry, Profile Page, Discovery Page, Settings Page, And Contact Us)
+  * Anyone can create an account or log in
+  * There is a User Info page that the user will be taken to when a new account is created (this can be accessed later in the edit profile option in the settings page to make any changes in one's portfolio)
+     * Info Consists of...
+        * Extracirculars
+        * Achievements
+        * Sports
+        * Standardized Testing
+        * Academic Scores / Transcript
+  * Users can share their memories that they think would be significant to their portfolio
+  * There is an automatically generated portfolio that not only you can view but others
+  * You can add friends and look over their portfolios
+  * You can delete, sign out, and edit your profile.
 # Installation & Runtime Requirements
   * In Order For The App To Fully Function On An Ios Device, The Following Requirements Must Be Met: Installation Requirements:
   * Apple Macbook Or Imac Running Macos Catalina Or Higher
