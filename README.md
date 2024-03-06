@@ -42,7 +42,7 @@ Authors: Dhruvsai Dhulipudi, Sarvajith Kujuluva, Avaneesh Choragudi Voice: 470-3
 This Project Is Licensed Under The GNU General Public License V3.0
 
 # Copyright
-Apple Icon Is A Registered Trademark Of Apple Inc. Twitter Logo Is A Registered Trademark Of Twitter Inc. FS Apple Icons were used to provide a consistently 
+Apple Icon Is A Registered Trademark Of Apple Inc. Twitter Logo Is A Registered Trademark Of Twitter Inc. FS Apple Icons were used to provide a consistent theme throughout the design of the app 
 
 # Sources
 Due To Prior Swift Experience Not Much Help Was Needed When Creating The App. However, Stack Overflow Along With Swift And Firebase Documentation Was Referenced On An Per Need Basis
@@ -54,4 +54,4 @@ Due To Prior Swift Experience Not Much Help Was Needed When Creating The App. Ho
   * Xcode Integrated Development Environment
   * Swift Code For UI and Implementation
   * Adobe Photoshop Cc/Adobe Illustrator For App Graphics
-  * Cocoapods For Firebase r
+  * Cocoapods For Firebase 
